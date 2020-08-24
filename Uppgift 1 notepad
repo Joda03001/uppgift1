@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<head lang="sv">
+	<meta charset="utf-8">
+	<title> Uppgift 1</title> 
+	
+</head>
+
+<body>  
+	<h1> Jonas Dahlsrtöm </h1>
+		<p> Hej jag heter Jonas och är 16 år gammal. </p>
+
+		<p> Mina intressen är bordtennis, gitarr och datorspel. </p>
+	
+	<h2> EEDAT19 </h2> 
+
+		<p> Jag går på programmet el-energi datorkommunikation och jag valde det eftersom jag är intresserad av pingis. </p> 
+	
+		<p> Av kursen webbutveckling vill jag lära mig hur sidor är uppbyda och hur man kan göra en egen hemsida.Mina förväntninga är att jag ska lära mig något om webutveckling. </p>
+
+	<a> href="https://www.vaxjo.se/sidor/forskola-och-skola/gymnasieskola/teknikum.html">Klicka mig</a> 
+	
+	<img> src="Teknikum.png" alt=Teknikum">
+
+</body 
